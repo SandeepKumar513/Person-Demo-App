@@ -1,0 +1,15 @@
+*.log
+*.swp
+*.iws
+*.iml
+*.ipr
+*.jar
+**/log
+**/build
+**/lib
+**/generated-source
+**/src/generated
+**/src/test-generated
+**/idea
+.project
+.idea
