@@ -1,7 +1,0 @@
-com\myproject\persondemo\repo\PersonRepo.class
-com\myproject\persondemo\service\OptionService.class
-com\myproject\persondemo\service\PersonService.class
-com\myproject\persondemo\PersonDemoApplication.class
-com\myproject\persondemo\controller\PersonController.class
-com\myproject\persondemo\model\Person.class
-com\myproject\persondemo\controller\Delegater.class
