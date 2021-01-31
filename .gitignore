@@ -7,6 +7,7 @@
 **/log
 **/build
 **/lib
+**/target
 **/generated-source
 **/src/generated
 **/src/test-generated
